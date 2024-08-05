@@ -6,6 +6,9 @@
       }
     },
     "owner": "mustaqimfs",
-    "slug": "reqresapp"
+    "slug": "reqresapp",
+    "android": {
+      "package": "com.mustaqimfs.reqresapp"
+    }
   }
 }
