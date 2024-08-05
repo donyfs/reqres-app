@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0771ac38-c746-4e81-85dd-a09cb56a96a1"
+      }
+    },
+    "owner": "mustaqimfs",
+    "slug": "reqresapp"
+  }
+}
